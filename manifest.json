@@ -1,8 +1,7 @@
 {
   "name": "Meu Aplicativo PWA",
   "short_name": "MeuPWA",
-  "start_url": "/index.html",
-  "display": "standalone",
+  "start_url": "./index.html",  "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007acc",
   "icons": [
